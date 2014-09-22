@@ -1,14 +1,6 @@
-package edu.princeton.algos.collinear;
-
-import edu.princeton.util.In;
-import edu.princeton.util.Quick;
-import edu.princeton.util.StdDraw;
-import edu.princeton.util.StdOut;
 
 /*************************************************************************
- * Name: Alberto Gutiérrez Jácome
- * Email: agjacome@gmail.com
- * 
+ *
  * Compilation: javac Brute.java
  * Execution: java Brute input.txt
  * Dependencies: StdDraw.java StdOut.java In.java

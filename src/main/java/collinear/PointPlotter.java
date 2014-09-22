@@ -1,8 +1,8 @@
-package edu.princeton.algos.collinear;
 
 /*************************************************************************
  * Compilation: javac PointPlotter.java
  * Execution: java PointPlotter input.txt
+ *
  * Dependencies: Point.java, In.java, StdDraw.java
  * 
  * Takes the name of a file as a command-line argument.
@@ -11,10 +11,6 @@ package edu.princeton.algos.collinear;
  * standard drawing.
  * 
  *************************************************************************/
-
-import edu.princeton.util.In;
-import edu.princeton.util.StdDraw;
-
 public class PointPlotter
 {
 

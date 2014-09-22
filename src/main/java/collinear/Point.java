@@ -1,11 +1,10 @@
-package edu.princeton.algos.collinear;
 
 /*************************************************************************
- * Name: Alberto Gutiérrez Jácome
- * Email: agjacome@gmail.com
- * 
+ *
  * Compilation: javac Point.java
+ *
  * Execution: not applicable
+ *
  * Dependencies: StdDraw.java
  * 
  * Description: An immutable data type for points in the plane.
@@ -13,8 +12,6 @@ package edu.princeton.algos.collinear;
  *************************************************************************/
 
 import java.util.Comparator;
-
-import edu.princeton.util.StdDraw;
 
 public class Point implements Comparable<Point>
 {
